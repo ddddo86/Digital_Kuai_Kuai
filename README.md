@@ -14,4 +14,4 @@
 
 ## Contribute
 
-- [waiwaimi](https://github.com/waiwaimi) 提供數位靠得住，加強封漏版
+- [waiwaimi](https://github.com/waiwaimi) 提供數位靠得住，完美封漏版
