@@ -12,5 +12,6 @@
 
 可以放置在任何地方，包括但不限於**電腦桌面、隨身碟、隨身硬碟、雲端硬碟**內
 
-##Contribute
+## Contribute
 
+- [waiwaimi](https://github.com/waiwaimi) 提供數位靠得住，加強封漏版
